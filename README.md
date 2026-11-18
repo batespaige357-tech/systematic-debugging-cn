@@ -2,9 +2,7 @@
 
 **先找根因，再改代码。**
 
-基于 [obra/superpowers 的 systematic-debugging](https://github.com/obra/superpowers/tree/main/skills/systematic-debugging) 的小幅中文适配。独立社区版本，非官方。
-
-## 保留上游核心
+## 功能与流程
 
 根因调查、模式对照、单一假设与最小验证、实施修复四阶段；保留错误信号、停止条件、根因追踪、防御性验证、条件等待与辅助文件。没有把原流程重写成另一套方法。
 
@@ -25,6 +23,8 @@ npx skills add batespaige357-tech/systematic-debugging-cn --skill systematic-deb
 
 附带的 Bash/TypeScript 文件为上游技术辅助材料，不会因安装自动运行；使用需要相应环境和隔离工作区。项目不附效果截图或演示网页。
 
-## 来源、许可与检查
+## 来源与许可
+
+基于 [obra/superpowers 的 systematic-debugging](https://github.com/obra/superpowers/tree/main/skills/systematic-debugging)，由本仓库维护。
 
 MIT，保留 Jesse Vincent 的版权和完整许可。版本、具体改动及检查范围见 [CHANGES.md](CHANGES.md)。静态文件检查不证明真实排错效果；本版没有行为盲测，也不复用上游案例成绩为自身成绩。

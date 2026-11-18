@@ -285,7 +285,7 @@ These techniques are part of systematic debugging and available in this director
 
 ## 中文排错补充 — systematic-debugging-cn
 
-本节为独立社区适配，沿用上游的四阶段流程，不代表 Superpowers 官方。
+沿用上游的四阶段流程。
 
 - 中文沟通按“现象、证据、假设、验证”组织。只输出对当前排查有用的部分，不要求每次都生成大表。
 - 日志、报错、代码、路径、时间、版本和错误码保留原文；中文解释放在原文之外，不能以翻译替换证据。

@@ -13,3 +13,8 @@ Recent-interest evidence: https://www.skills.sh/trending checked 2026-11-16T17:3
 Validation: UTF-8, five unchanged support files, local file references, original workflow preservation except two documented dependency lines, skill frontmatter. No live incident trial, behavioral evaluation, Bash/TypeScript runtime tests, or frontend build. Historical metrics inside upstream reference documents are upstream examples, not our results.
 
 Candidate selection note: web-design-guidelines was considered; its cloned repository states MIT in README but has no root license text. Selected this separately trending, fully licensed skill instead to keep copyright packaging unambiguous.
+
+
+## 2026-11-18 · 文档表达更新
+
+README 优先展示用途、功能与用法；来源信息集中到来源与许可部分，精简技能入口中的重复声明。核心工作流、参考内容、版权和许可证保持不变。
